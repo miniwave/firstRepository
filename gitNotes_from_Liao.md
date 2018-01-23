@@ -1,6 +1,7 @@
-https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+廖老师git教程笔记，原文:https://github.com/hongiii/gitNotes_from_Liao
 
-copy from:https://github.com/hongiii/gitNotes_from_Liao
+廖老师git教程:https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
 # <p align = "center"> Git笔记 </p>
 ## Git介绍
 - Git是分布式版本控制系统
